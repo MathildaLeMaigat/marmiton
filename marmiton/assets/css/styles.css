@@ -1,0 +1,121 @@
+/* General rules */
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background-color: #efefef;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1024px;
+  
+}
+
+section{
+    background-color: white;
+    padding: 60px 30px;
+    border-radius: 20px;
+}
+
+p{
+    line-height: 22px;
+
+}
+
+h1{
+    font-size: 50px;
+    color: #393c6c;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-size: 30px;
+    color: #f3735f;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+h3{
+    font-size: 18px;
+    font-weight: bold;
+    color: #393c6c;
+    line-height: 22px;
+    margin-top: 20px;
+}
+
+
+/* Header */
+header{
+    background-color: white;
+    border-bottom: 1px solid #f3735f;
+}
+
+header img {
+    margin-top: 25px;
+    margin-bottom: 30px;
+    width: 190px;
+}
+
+
+/* Main */
+
+main{
+    margin-top: 80px;
+}
+
+.time {
+    margin: 0 auto;
+    width: 370px;
+    background-color:#38528E;
+    padding: 10px;
+   text-align: center;
+   border-radius: 10px;
+color: white;
+font-size: 20px;
+font-weight: bold;
+margin-top: 30px;
+margin-bottom: 60px;
+}
+
+h4{
+    font-size: 12px;
+    color: grey;
+    text-align: center;
+   
+}
+
+main img {
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+}
+
+.picture{
+    margin-right: 107px;
+}
+
+ol {
+    font-size: 15px;
+    color: grey;
+    line-height: 20px;
+    margin-left: 15px;
+}
+
+li{
+    list-style-type: disc;
+}
+main p {
+    margin-bottom: 10px;
+    font-size: 15px;
+   
+}
+
+/*Footer*/
+
+footer{
+    padding: 50px;
+}
